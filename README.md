@@ -1,7 +1,6 @@
 ## Setup
-Create database.yml file inside example/config
-Run `rake db:setup`
-
+1 `bundle install`
+2 `bundle exec rake db:migrate`
 ## Usage
 Run `rackup`
 
