@@ -1,6 +1,7 @@
 ## Setup
-1 `bundle install`
-2 `bundle exec rake db:migrate`
+Run `bundle install`
+Run `bundle exec rake db:migrate`
 ## Usage
 Run `rackup`
-
+## Global
+Run `gem install bundler`
